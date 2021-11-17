@@ -1,0 +1,1 @@
+/usr/local/bin/clang++ -O3 -DNDEBUG -rdynamic -fopenmp=libomp CMakeFiles/testOMP.dir/src/graphic.cpp.o CMakeFiles/testOMP.dir/src/main_openmp.cpp.o -o testOMP  libcore.a /usr/lib64/libfreetype.so /usr/lib64/libSDL2.so /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so -ldl -lpthread -lmpi 

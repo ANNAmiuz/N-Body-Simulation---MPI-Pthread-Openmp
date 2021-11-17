@@ -1,0 +1,8 @@
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/rebuild_cache.dir
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/testBS.dir
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/testMPI.dir
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/testOMP.dir
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/edit_cache.dir
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/core.dir
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/testP.dir
+/home/119010114/csc4005-assignment-3/csc4005-imgui/build/CMakeFiles/csc4005_imgui.dir
